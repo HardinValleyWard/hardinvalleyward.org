@@ -4,7 +4,7 @@ module.exports = {
     siteUrl: `https://hardinvalleyward.org`,
   },
   plugins: [
-    "gatsby-plugin-theme-ui",
+    "gatsby-plugin-sass",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
